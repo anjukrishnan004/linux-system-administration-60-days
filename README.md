@@ -1,6 +1,3 @@
-# linux-system-administration-60-days
-# Hands-on Linux System Administration learning journey with AlmaLinux, VMware labs, troubleshooting and practical projects.
-
 # Linux System Administration – 60 Days of Hands-on Learning
 
 Welcome to my Linux System Administration learning portfolio.
