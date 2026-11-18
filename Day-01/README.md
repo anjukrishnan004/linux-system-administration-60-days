@@ -204,6 +204,7 @@ Accessed the GRUB boot menu during startup.
 - Pressed the `e` key to edit the selected boot entry.
 - Located the kernel line beginning with `linux`.
 - Moved the cursor to the end of the kernel boot line.
+- ![GRUB Editing Screen](screenshots/grub-edit-entry.png)
 
 ### Step 3 – Add Recovery Parameter
 
